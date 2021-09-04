@@ -3,8 +3,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SwapFU", "SwapFU\SwapFU.njsproj", "{64CFAEB8-42EB-49F4-A54B-C6DC6195DB52}"
-EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "QuickSwap", "QuickSwap\QuickSwap.njsproj", "{37C1DD96-7A6B-424E-9B7A-D5C65E6478F9}"
 EndProject
 Global
@@ -13,10 +11,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{64CFAEB8-42EB-49F4-A54B-C6DC6195DB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{64CFAEB8-42EB-49F4-A54B-C6DC6195DB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{64CFAEB8-42EB-49F4-A54B-C6DC6195DB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{64CFAEB8-42EB-49F4-A54B-C6DC6195DB52}.Release|Any CPU.Build.0 = Release|Any CPU
 		{37C1DD96-7A6B-424E-9B7A-D5C65E6478F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{37C1DD96-7A6B-424E-9B7A-D5C65E6478F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37C1DD96-7A6B-424E-9B7A-D5C65E6478F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
