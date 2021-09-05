@@ -1,3 +1,5 @@
 [submodule "SushiSwap"]
 	path = SushiSwap
 	url = https://github.com/Iam-They/SushiSwap-sdk.git
+[submodule "QuickSwap"]
+	url = https://github.com/Iam-They/QuickSwap-sdk.git
