@@ -7,6 +7,10 @@ Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "QuickSwap", "QuickSwap\Quic
 EndProject
 Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SushiSwap", "SushiSwap\SushiSwap.njsproj", "{54F920BC-A447-4D36-AA8E-FAFB6B100882}"
 EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "SwapFU.App", "SwapFU.App\SwapFU.App.njsproj", "{9977E99A-9AA8-4625-B37D-4276043278B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SDKs", "SDKs", "{508FED0D-A30F-45CD-AD96-C8DAF33BEEC5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,9 +25,17 @@ Global
 		{54F920BC-A447-4D36-AA8E-FAFB6B100882}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54F920BC-A447-4D36-AA8E-FAFB6B100882}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54F920BC-A447-4D36-AA8E-FAFB6B100882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9977E99A-9AA8-4625-B37D-4276043278B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9977E99A-9AA8-4625-B37D-4276043278B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9977E99A-9AA8-4625-B37D-4276043278B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9977E99A-9AA8-4625-B37D-4276043278B6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{37C1DD96-7A6B-424E-9B7A-D5C65E6478F9} = {508FED0D-A30F-45CD-AD96-C8DAF33BEEC5}
+		{54F920BC-A447-4D36-AA8E-FAFB6B100882} = {508FED0D-A30F-45CD-AD96-C8DAF33BEEC5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {1D480903-2046-421B-AB00-DFDF69869BEB}
